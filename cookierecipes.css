@@ -1,0 +1,25 @@
+body
+{
+	font-family: monospace;
+	font-size: 16px;
+	background-color: rgb(240, 232, 211); /*i put the background colour as this to match the cookie subject*/ 
+}
+
+h1
+{
+	font-size: 14px;
+	text-align: right;
+}
+
+#credits
+{
+	font-size: 12px;
+}
+
+img
+{
+	border-color: black;
+	border-width: medium;
+	border-style: solid;
+	margin: 10px;
+}
