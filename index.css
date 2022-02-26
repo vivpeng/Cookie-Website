@@ -2,7 +2,7 @@ body
 {
 	font-family: monospace;
 	font-size: 16px;
-	background-color: rgb(240, 232, 211);
+	background-color: rgb(240, 232, 211); /*i have set the background colour as this to match the cookie theme*/
 }
 
 p
